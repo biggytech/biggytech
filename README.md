@@ -4,5 +4,7 @@
 - 💞️ I’m looking to collaborate on pure JavaScript / React / React Native / Node.js / TypeScript projects.
 - 📫 How to reach me: mail to neliharbuzavapublic@gmail.com
 
+**This is my new GitHub account**, old account is [👉 pigpudle](https://github.com/pigpudle)
+
 ## ✨ Open-Source activity ✨
 I've contributed to [Chai](https://github.com/biggytech/biggytech/blob/master/CONTRIBUTIONS.md#chai-docs), [Stripe](https://github.com/biggytech/biggytech/blob/master/CONTRIBUTIONS.md#chai-docs), [Objection.js](https://github.com/biggytech/biggytech/blob/master/CONTRIBUTIONS.md#chai-docs).
